@@ -1,0 +1,16 @@
+row= fila
+
+Tamaños horizontales:
+
+
+
+Bootstraps divide una página en 12 bloques
+
+Las medidas de las pantallas son: 
+sm= small
+md= medium
+lg= large
+xl= extra large
+
+Un buen comportamiento responsivo es evitar que cuando achicamos la ventana tengamos que 
+usar una barra horizontal para movernos. Todo se debe ver fluido.
